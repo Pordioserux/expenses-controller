@@ -1,0 +1,7 @@
+{
+  "name": "expenses-controller-fronted",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
